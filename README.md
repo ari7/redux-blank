@@ -3,6 +3,19 @@
 
 Minimal Redux app created with [create-react-app].
 
+## Usage
+
+```
+yarn start
+```
+
+or
+
+
+```
+npm start
+```
+
 ## Directory structure
 
 ```
