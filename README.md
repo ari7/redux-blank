@@ -1,36 +1,33 @@
 
 Minimal Redux app created with [create-react-app].
 
-Directory structure:
+## Directory structure:
 
-```.
+```
+.
+├── LICENSE
 ├── package.json
 ├── public
 │   ├── favicon.ico
 │   ├── index.html
-│   ├── main.css
-│   └── manifest.json
+│   └── main.css
 ├── README.md
 ├── src
 │   ├── components
 │   │   └── HelloButton.js
 │   ├── containers
-│   │   ├── App.js
-│   │   └── App.test.js
+│   │   └── App.js
 │   ├── index.js
-│   ├── reducers
-│   │   └── index.js
-│   └── styles
-│       ├── App.css
-│       ├── index.css
-│       └── logo.svg
+│   └── reducers
+│       └── index.js
 └── yarn.lock
 
-6 directories, 15 files
+5 directories, 11 files
 ```
 
-Screenshot:
+## Screenshot:
 
-![](http://imgur.com/CMvmVG4)
+![][screen]
 
 [create-react-app]: "https://github.com/facebookincubator/create-react-app"
+[screen]: "http://imgur.com/CMvmVG4"
