@@ -1,7 +1,7 @@
 
 # Redux Blank
 
-Minimal Redux app created with [create-react-app].
+A blank Redux app powered by [react-scripts].
 
 ## Usage
 
@@ -34,4 +34,4 @@ npm start
     └── index.js
 ```
 
-[create-react-app]: https://github.com/facebookincubator/create-react-app "a node.js script"
+[react-scripts]: https://github.com/facebookincubator/create-react-app "a node.js script"
