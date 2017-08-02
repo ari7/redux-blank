@@ -27,7 +27,6 @@ Minimal Redux app created with [create-react-app].
 
 ## Screenshot:
 
-![][screen]
+![](http://i.imgur.com/CMvmVG4.png)
 
 [create-react-app]: "https://github.com/facebookincubator/create-react-app"
-[screen]: "http://imgur.com/CMvmVG4"
