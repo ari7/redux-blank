@@ -25,8 +25,4 @@ Minimal Redux app created with [create-react-app].
 5 directories, 11 files
 ```
 
-## Screenshot:
-
-![](http://i.imgur.com/CMvmVG4.png)
-
 [create-react-app]: https://github.com/facebookincubator/create-react-app "a node.js script"
