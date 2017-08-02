@@ -1,7 +1,7 @@
 
 # Redux Blank
 
-A minimal Redux app created with [create-react-app].
+Minimal Redux app created with [create-react-app].
 
 ## Directory structure
 
