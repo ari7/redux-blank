@@ -24,11 +24,12 @@ A blank Redux app powered by [react-scripts].
 
 ## Usage
 
+Start with Yarn or NPM.
+
 ```
 yarn start
 
 # or 
-
 npm start
 ```
 
