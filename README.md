@@ -26,12 +26,9 @@ A blank Redux app powered by [react-scripts].
 
 ```
 yarn start
-```
 
-or
+# or 
 
-
-```
 npm start
 ```
 
