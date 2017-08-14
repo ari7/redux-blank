@@ -1,7 +1,7 @@
 
 # Redux Blank
 
-A blank Redux app powered by [react-scripts].
+An empty Redux project relying on [react-scripts][rs].
 
 ## Directory structure
 
@@ -33,4 +33,4 @@ yarn start
 npm start
 ```
 
-[react-scripts]: https://github.com/facebookincubator/create-react-app "a node.js script"
+[rs]: https://github.com/facebookincubator/create-react-app "a node.js script"
