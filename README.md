@@ -1,3 +1,6 @@
+---
+title: Redux
+---
 
 # Redux Blank
 
